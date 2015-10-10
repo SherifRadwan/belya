@@ -1,0 +1,18 @@
+Requirments:
+	Installing XAMPP
+	- included with the package (PHP + APACHE Web server) - 
+
+
+
+
+1- Copying the web contents to htdocs
+	htdocs may be found in
+	%XAMPP_INSTALLATION_FOLDER%\htdocs
+	Like:
+		C:\xampp\htdocs
+2- Opening XAMMP control Panle from start menu and start apache
+
+3- Opening The web browser and navigate to
+
+	localhost\belya
+
